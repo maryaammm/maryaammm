@@ -1,4 +1,4 @@
-- Hi, I’m @maryaammm
+- Hi, I’m Maryam.
 - I’m interested in combining hardware and software to make everyday objects interactive.
 - I’m currently learning about soft circuits and e-textiles.
 - I’m looking to collaborate on interesting projects that address the challenges of these fields.
